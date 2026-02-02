@@ -1,3 +1,3 @@
 # E-commerce
-platform
+platform.
 Author-harsh jain
